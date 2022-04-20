@@ -1,2 +1,2 @@
 # iportfolio
-Mi Portafolios y Curriculum /vitae.
+Mi Portafolios y Curriculum Vitae virtual.
