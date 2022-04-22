@@ -8,10 +8,10 @@ $body = "Nombre y Apellido: " . $nombre . "<br>Correo: " . $email . "<br>Tema: "
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
 
-require '/assets/phpmailer/Exception.php';
-require '/assets/phpmailer/PHPMailer.php';
-require '/assets/phpmailer/SMTP.php';
-require '/assets/phpmailer/constante.php';
+require 'assets/phpmailer/Exception.php';
+require 'assets/phpmailer/PHPMailer.php';
+require 'assets/phpmailer/SMTP.php';
+require 'assets/phpmailer/constante.php';
 
 $mail = new PHPMailer(true);
 
